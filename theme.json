@@ -1,0 +1,11 @@
+{
+  "theme": {
+    "colors": {
+      "bg_white": "#ffffff",
+      "bg_home": "#f9f9f9",
+      "bg_black": "#000000",
+      "bg_gray": "#202020",
+      "bg_footer": "#efefef"
+    }
+  }
+}
